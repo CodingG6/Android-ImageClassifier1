@@ -4,10 +4,12 @@
 
 텐서플로우 라이트 mobilenet_imagenet_model*을 연동해 이미지를 실시간으로 분류하는 이미지 분류기 앱
 
-**UI**
+### UI
+
 ![UI](https://github.com/CodingG6/Android-ImageClassifier1/blob/master/app/src/main/res/drawable-v24/UI.png)
 
-**예측 결과**
+### 예측 결과
+
 ![preds](https://github.com/CodingG6/Android-ImageClassifier1/blob/master/app/src/main/res/drawable-v24/preds.png)
 
 
